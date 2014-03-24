@@ -1,3 +1,15 @@
+header
+{
+  padding: 0 2em !important;
+}
+footer
+{
+  padding: 0 2em !important;
+}
+.content
+{
+  padding: 0 2em !important;
+}
 .panel-panel
 {
   padding: 0 0.3em !important;
@@ -33,10 +45,10 @@
   float: left;
 }
 
-@media (min-width: 53em)
+@media (min-width: 533px)
 {
   #site-slogan
   {
-    margin-left: 5em;
+    margin-left: 3em !important;
   }
 }
