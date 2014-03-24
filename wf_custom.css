@@ -1,0 +1,42 @@
+.panel-panel
+{
+  padding: 0 0.3em !important;
+}
+.panel-body
+{
+  padding: 0.5em !important:
+}
+.panel
+{
+  border: 0.1em !important;
+  margin: 0.3em !important;
+}
+#main-content
+{
+  padding: 0.1em !important;
+  margin: 0.1em !important;
+}
+#content-wrapper
+{
+  padding: 0.2em !important;
+}
+#logo
+{
+  float: left !important;
+}
+#site-name
+{
+  text-align: left;
+}
+#site-slogan
+{
+  float: left;
+}
+
+@media (min-width: 53em)
+{
+  #site-slogan
+  {
+    margin-left: 5em;
+  }
+}

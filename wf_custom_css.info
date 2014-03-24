@@ -1,5 +1,6 @@
-name = WF Custom Styles
+name = WF Custom CSS
 description = Custom stylesheets for the WF website.
 core = 7.x
 package = Western Friend
 stylesheets[all][] = wf_custom.css
+
