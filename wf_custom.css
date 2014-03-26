@@ -22,6 +22,10 @@ footer
 {
   clear:both;
 }
+.label
+{
+  color: #333 !important;
+}
 .links.inline
 {
   clear: both;
