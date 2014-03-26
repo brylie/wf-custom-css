@@ -2,13 +2,39 @@ header
 {
   padding: 0 2em !important;
 }
+img
+{
+  margin: 1em;
+}
 footer
 {
   padding: 0 2em !important;
 }
+.breadcrumb
+{
+  margin: 0 !important;
+}
 .content
 {
   padding: 0 2em !important;
+}
+.group-left
+{
+  clear:both;
+}
+.links.inline
+{
+  clear: both;
+  display: block;
+}
+.node-article-magazine
+{
+  padding: 0 1em;
+}
+.field-name-field-authored-by
+{
+  clear: both !important;
+  display: block !important;
 }
 .panel-panel
 {
@@ -40,6 +66,10 @@ section
 #content-wrapper
 {
   padding: 0.2em !important;
+}
+#subscriber-login
+{
+  margin-top: 0.5em;
 }
 #logo
 {
