@@ -53,6 +53,10 @@ footer
   border: 0.1em !important;
   margin: 0.3em !important;
 }
+.views-field-field-cover-image
+{
+  float: left;
+}
 section
 {
   padding: 0em !important;
@@ -68,6 +72,7 @@ section
   padding: 0.3em 0 0 2em !important;
   min-height: 0 !important;
 }
+
 #main-content
 {
   padding: 0.1em !important;
@@ -84,6 +89,8 @@ section
 #logo
 {
   float: left !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 #site-name
 {
