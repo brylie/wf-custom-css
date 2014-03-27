@@ -56,7 +56,7 @@ footer
 .wf-button
 {
   width: 100%;
-  white-space: normal;
+  white-space: normal !important;
 }
 .views-field-field-cover-image
 {
@@ -71,6 +71,12 @@ section
   width: 2em;
   font-size: 1.5em;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#forum-sort
+{
+  width: 33%;
+  float: right;
+  margin-top: 3em;
 }
 #header
 {
