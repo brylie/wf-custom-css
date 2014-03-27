@@ -75,7 +75,7 @@ section
 #forum-sort
 {
   width: 33%;
-  float: right;
+  float: right !important;
   margin-top: 3em;
 }
 #header
