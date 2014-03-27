@@ -53,6 +53,11 @@ footer
   border: 0.1em !important;
   margin: 0.3em !important;
 }
+.wf-button
+{
+  width: 100%;
+  white-space: normal;
+}
 .views-field-field-cover-image
 {
   float: left;
