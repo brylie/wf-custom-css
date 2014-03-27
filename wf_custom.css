@@ -122,9 +122,11 @@ section
   {
     margin-left: 1em !important;
   }
+}
+@media (min-width: 768px)
+{
   #forum-sort
   {
-    width: 33%;
+    width: 42%;
     float: right !important;
-  }
 }
