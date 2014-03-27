@@ -74,8 +74,6 @@ section
 }
 #forum-sort
 {
-  width: 33%;
-  float: right !important;
   margin-top: 3em;
 }
 #header
@@ -118,11 +116,15 @@ section
   float: left;
   font-size: 1.2em !important;
 }
-
 @media (min-width: 533px)
 {
   #site-slogan
   {
     margin-left: 1em !important;
+  }
+  #forum-sort
+  {
+    width: 33%;
+    float: right !important;
   }
 }
