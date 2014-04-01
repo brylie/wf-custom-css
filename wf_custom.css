@@ -93,6 +93,7 @@ section
 #header-top
 {
   background-color: #ff8774 !important;
+  border-bottom: none !important;
 }
 #header-top-left p
 {
