@@ -62,6 +62,10 @@ footer
   width: 100%;
   white-space: normal !important;
 }
+.view-header h2
+{
+  margin: 0;
+}
 .views-field-field-cover-image
 {
   float: left;
