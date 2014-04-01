@@ -94,6 +94,10 @@ section
 {
   background-color: #ff8774 !important;
 }
+#header-top-left p
+{
+  margin: 0 !important;
+}
 #main-content
 {
   padding: 0.1em !important;
