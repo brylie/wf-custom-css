@@ -88,6 +88,14 @@ section
 {
   margin-top: 3em;
 }
+#block-search-form .form-actions:after, .sidebar-search-block .form-actions:after
+{
+  top: -5px !important!;
+}
+#block-search-form .form-actions, .sidebar-search-block .form-actions
+{
+  top: -5px !important;
+}
 #header
 {
   padding: 0.3em 0 0 2em !important;
@@ -154,4 +162,9 @@ section
   {
     width: 42%;
     float: right !important;
+}
+[name=search_block_form]
+{
+  padding: 0em 1em !important;
+  min-height: 42px !important;
 }
