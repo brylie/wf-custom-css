@@ -61,6 +61,10 @@ footer
   border: 0.1em !important;
   margin: 0.3em !important;
 }
+.views-field-field-cover-image img
+{
+  margin: 0;
+}
 .wf-button
 {
   width: 100%;
@@ -72,7 +76,19 @@ footer
 }
 .views-field-field-cover-image
 {
-  float: left;
+  /* float: left; */
+}
+.wf-magazine-cover-grid-item
+{
+  text-align: center;
+  verticle-align: bottom;
+  display: block !important;
+}
+.wf-magazine-cover-grid-item img
+{
+  margin: auto;
+  width: 67%;
+  max-width: 100%;
 }
 section
 {
@@ -154,6 +170,19 @@ section
   #site-slogan
   {
     margin-left: 1em !important;
+  }
+}
+@media (min-width: 650px)
+{
+  .wf-magazine-cover-grid-item
+  {
+    display: table-cell !important;
+    width: 33%;
+    vertical-align: bottom !important;
+  }
+  .wf-magazine-cover-grid-item img
+  {
+    width: auto;
   }
 }
 @media (min-width: 768px)
