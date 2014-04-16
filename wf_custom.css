@@ -61,9 +61,23 @@ footer
   border: 0.1em !important;
   margin: 0.3em !important;
 }
+.view-bookstore .views-field-field-cover-image
+{
+  float: left;
+  margin-right: 1em;
+}
 .views-field-field-cover-image img
 {
   margin: 0;
+}
+.views-field-add-to-cart-form .form-item-quantity
+{
+  display: inline;
+  padding: 1em;
+}
+.views-field-add-to-cart-form .form-submit
+{
+  display: inline;
 }
 .wf-button
 {
@@ -172,7 +186,7 @@ section
     margin-left: 1em !important;
   }
 }
-@media (min-width: 650px)
+@media (min-width: 768px)
 {
   .wf-magazine-cover-grid-item
   {
