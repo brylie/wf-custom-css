@@ -53,6 +53,10 @@ footer
 .main-menu a {
     padding: 0 2em !important;
 }
+.sf-main-menu a.donate-link {
+  color: #fff !important;
+  text-shadow: none !important;
+}
 .node-article-magazine
 {
   padding: 0 1em;
@@ -74,6 +78,12 @@ footer
 .panel {
   border: 0.1em !important;
   margin: 0.3em !important;
+}
+.sf-menu a {
+  padding: 0.4em 2em !important;
+}
+.sf-menu ul {
+  margin-bottom: 0.2em !important;
 }
 .view-bookstore .views-field-field-cover-image
 {
