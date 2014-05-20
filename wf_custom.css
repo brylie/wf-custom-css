@@ -135,6 +135,9 @@ section
 {
   padding: 0em !important;
 }
+#breadcrumb ol {
+  padding: 0.3em 1em !important;
+}
 #edit-quantity
 {
   width: 2em;
