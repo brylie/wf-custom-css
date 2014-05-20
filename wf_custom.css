@@ -26,6 +26,10 @@ footer
 {
   padding: 0 2em !important;
 }
+.field-name-field-department
+{
+  margin-bottom: 1em;
+}
 .form-wrapper
 {
   clear: both !important;
@@ -43,6 +47,12 @@ footer
   clear: both;
   display: block;
 }
+.main-menu {
+    margin-bottom: 0.3em !important;
+}
+.main-menu a {
+    padding: 0 2em !important;
+}
 .node-article-magazine
 {
   padding: 0 1em;
@@ -52,16 +62,16 @@ footer
   clear: both !important;
   display: block !important;
 }
-.panel-panel
-{
+.panel-col-first {
+    width: 48% !important;
+}
+.panel-panel {
   padding: 0 0.3em !important;
 }
-.panel-body
-{
+.panel-body {
   padding: 0.5em !important:
 }
-.panel
-{
+.panel {
   border: 0.1em !important;
   margin: 0.3em !important;
 }
