@@ -221,6 +221,13 @@ section
     margin-left: 0em !important;
     margin: 0px !important;
   }
+  #header-top {
+    z-index: 10;
+    background-color: transparent !important;
+  }
+  #header {
+    margin-top: -3em;
+  }
 }
 @media (min-width: 768px)
 {
