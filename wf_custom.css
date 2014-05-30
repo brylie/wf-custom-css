@@ -187,6 +187,9 @@ section
 {
   margin-top: 0.5em;
 }
+#superfish-1-select {
+ color: #333;
+}
 #logo
 {
   float: left !important;
