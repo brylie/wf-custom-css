@@ -188,7 +188,8 @@ section
   margin-top: 0.5em;
 }
 #superfish-1-select {
- color: #333;
+  color: #333;
+  font-size: 1em;
 }
 #logo
 {
