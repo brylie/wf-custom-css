@@ -220,6 +220,7 @@ section
   text-shadow: 0.1em 0.1em 0em rgba(255, 255, 255, 0.7);
   margin: 0 !important;
   margin-left: 0em !important;
+  line-height: 100% !important;
 }
 @media (min-width: 533px)
 {
