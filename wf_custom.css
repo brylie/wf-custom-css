@@ -22,6 +22,13 @@ footer
 {
   margin: 0 !important;
 }
+.book-display {
+  clear: both;
+  padding-top: 2em;
+}
+.book-display .commerce-add-to-cart {
+  float: right;
+}
 .book-display input[type="text"] {
   width: 4em;
   font-size: 1em;
