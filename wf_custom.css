@@ -22,16 +22,20 @@ footer
 {
   margin: 0 !important;
 }
+.book-display input[type="text"] {
+  width: 4em;
+  font-size: 1em;
+  font-family: sans-serif;
+}
 .caption {
   /*margin-left: 0em !important;*/
-  margin-right: 2em !important;
-  text-align: center !important;
+  margin: 0 2em !important;
 }
 .caption img {
   margin: 0 0.5em !important;
 }
 .caption p {
-  margin: 0.3em 0 !important;
+  margin: 0.3em 1em !important;
   font-style: italic;
 }
 .content
