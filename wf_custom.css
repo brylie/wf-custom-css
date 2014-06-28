@@ -161,6 +161,15 @@ section
 {
   padding: 0em !important;
 }
+#block-block-6 {
+  z-index: 10;
+  float: right;
+  position: absolute;
+  width: 97%;
+}
+#block-block-6 .content {
+  float: right;
+}
 #breadcrumb ol {
   padding: 0.3em 1em !important;
 }
