@@ -10,6 +10,9 @@ footer
 {
   padding: 0 2em !important;
 }
+.admin-menu-icon {
+  margin: 0.3em;
+}
 .article-title a
 {
   color: #AA3A28;
@@ -160,6 +163,9 @@ footer
 section
 {
   padding: 0em !important;
+}
+#admin-menu-wrapper {
+  height: 2em;
 }
 #block-block-6 {
   float: right;
