@@ -270,6 +270,9 @@ section
   margin-left: 0em !important;
   line-height: 100% !important;
 }
+#wf-welcome-message p {
+  margin-bottom: 0;
+}
 @media (min-width: 533px)
 {
   #site-slogan
@@ -298,12 +301,23 @@ section
     width: auto;
   }
 }
-@media (min-width: 768px)
-{
-  #forum-sort
-  {
+@media (min-width: 768px) {
+  #forum-sort {
     width: 42%;
     float: right !important;
+  }
+}
+
+@media (min-width: 1080px) {
+  #block-user-login {
+    position: absolute;
+    left: 70%;
+    padding: 0.3em !important;
+  }
+  
+  #block-user-login .content {
+    padding: 0 !important;
+  }
 }
 [name=search_block_form]
 {
