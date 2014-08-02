@@ -235,6 +235,9 @@ section
 #superfish-1 {
   margin: 0.5em 0;
 }
+#superfish-1 a {
+  padding: 0.8em !important;
+}
 #superfish-1-select {
   color: #333;
   font-size: 1em;
