@@ -274,6 +274,9 @@ section
   line-height: 100% !important;
   margin-bottom: 0.5em !important;
 }
+#superfish-1-select {
+  font-family: sans;
+}
 #wf-welcome-message p {
   margin-bottom: 0;
 }
