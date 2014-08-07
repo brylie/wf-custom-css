@@ -1,3 +1,6 @@
+h2:after {
+  display: none !important;
+}
 header
 {
   padding: 0 2em !important;
