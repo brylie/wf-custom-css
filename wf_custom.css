@@ -51,28 +51,25 @@ footer
   margin: 0.3em 1em !important;
   font-style: italic;
 }
-.content
-{
+.content {
   padding: 0 2em !important;
 }
-.field-name-field-department
-{
+.field-name-field-department {
   margin-bottom: 1em;
 }
-.form-wrapper
-{
+.field-name-field-issue-months {
+  margin-left: 2em;
+}
+.form-wrapper {
   clear: both !important;
 }
-.group-left
-{
+.group-left {
   clear:both;
 }
-.label
-{
+.label {
   color: #333 !important;
 }
-.links.inline
-{
+.links.inline {
   clear: both;
   display: block;
 }
@@ -81,6 +78,11 @@ footer
 }
 .main-menu a {
     padding: 0 2em !important;
+}
+.media-description {
+  margin: 1em;
+  clear: both;
+  display: block;
 }
 .sf-main-menu a.donate-link {
   color: #fff !important;
@@ -113,6 +115,16 @@ footer
 }
 .sf-menu ul {
   margin-bottom: 0.2em !important;
+}
+.sidebar .block {
+  padding: 0 !important;
+}
+.sidebar h2 {
+  margin: 0.8em !important;
+  margin-bottom: 0.5em !important;
+}
+.sidebar li {
+  padding: 0.3em !important;
 }
 .view-bookstore .views-field-field-cover-image
 {
@@ -319,6 +331,9 @@ section
     position: absolute;
     left: 65%;
     width: 14em;
+  }
+  #sidebar-second {
+    margin-top: 5.5em !important;
   }
 }
 
