@@ -180,6 +180,9 @@ footer
   width: 67%;
   max-width: 100%;
 }
+.wf-welcome-text
+  padding-left: 0.2em;
+}
 section
 {
   padding: 0em !important;
