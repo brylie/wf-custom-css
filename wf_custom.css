@@ -60,6 +60,9 @@ footer
 .field-name-field-issue-months {
   margin-left: 2em;
 }
+.form-autocomplete {
+  background-image: none !important;
+}
 .form-wrapper {
   clear: both !important;
 }
