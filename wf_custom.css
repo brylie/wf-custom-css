@@ -54,6 +54,13 @@ footer
 .content {
   padding: 0 2em !important;
 }
+.community-meetings {
+  margin-top: 2em !important;
+}
+.event-title {
+  margin-bottom: 0.3em;
+  font-size: 1.3em;
+}
 .field-name-field-department {
   margin-bottom: 1em;
 }
@@ -171,6 +178,9 @@ footer
 {
   display: inline;
 }
+.views-row-first {
+  padding-top: 0;
+}
 .wf-button
 {
   width: 100%;
@@ -264,6 +274,9 @@ section
 #block-search-form .form-actions, .sidebar-search-block .form-actions
 {
   top: -5px !important;
+}
+#community-page-find-meetings-text {
+
 }
 #header
 {
