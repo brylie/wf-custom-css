@@ -57,9 +57,15 @@ footer
 .community-meetings {
   margin-top: 2em !important;
 }
+.edit-submit-library-test {
+  margin-top: 0 !important;
+}
 .event-title {
   margin-bottom: 0.3em;
   font-size: 1.3em;
+}
+.field-name-body img {
+  margin: 0.7em;
 }
 .field-name-field-department {
   margin-bottom: 1em;
@@ -93,6 +99,13 @@ footer
   margin: 1em;
   clear: both;
   display: block;
+}
+
+.media-library-item-image img {
+  margin-top: 0 !important;
+}
+.media-library-item-title {
+  font-size: 1.3em !important;
 }
 .sf-main-menu a.donate-link {
   color: #fff !important;
@@ -153,6 +166,10 @@ footer
 }
 .sidebar li {
   padding: 0.3em !important;
+}
+.views-exposed-widget .views-submit-button {
+  float: right !important;
+  padding-right: 0;
 }
 .view-bookstore .views-field-field-cover-image
 {
