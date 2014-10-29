@@ -405,6 +405,12 @@ section
   }
 }
 
+@media (min-width: 630px) and (max-width: 740px) {
+  #block-system-user-menu {
+    position: relative !important;
+  }
+}
+
 @media (min-width: 768px)
 {
   .wf-magazine-cover-grid-item
