@@ -57,6 +57,9 @@ footer
 .community-meetings {
   margin-top: 2em !important;
 }
+.donate-link {
+  color: #fff !important;
+}
 .edit-submit-library-test {
   margin-top: 0 !important;
 }
@@ -70,11 +73,18 @@ footer
 .field-name-field-department {
   margin-bottom: 1em;
 }
+.field-name-field-description p {
+  margin-bottom: 1em;
+}
 .field-name-field-issue-months {
   margin-left: 2em;
 }
 .file-application-pdf .pdf {
   width: 100% !important;
+}
+.field-name-field-website {
+  margin-bottom: 1em !important;
+}
 }
 .form-autocomplete {
   background-image: none !important;
@@ -272,6 +282,9 @@ section
 }
 #breadcrumb ol {
   padding: 0.3em 1em !important;
+}
+#comments {
+  clear: both !important;
 }
 /*#edit-quantity
 {
