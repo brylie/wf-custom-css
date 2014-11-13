@@ -193,6 +193,12 @@ footer
   float: left;
   margin-right: 1em;
 }
+.views-field-edit-quantity input {
+  font-size: 1.3em !important;
+  padding: 0.3em 0.5em !important;
+  width: 3em;
+  min-height: 0;
+}
 .view-magazine-articles .views-field-field-authored-by {
   margin-left: 0 !important;
 }
