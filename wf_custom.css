@@ -57,6 +57,9 @@ footer
 .community-meetings {
   margin-top: 2em !important;
 }
+.crm-container.crm-public .select2-container .select2-choice {
+  padding: 0 0 0 1em !important;
+}
 .donate-link {
   color: #fff !important;
 }
@@ -85,6 +88,8 @@ footer
 .field-name-field-website {
   margin-bottom: 1em !important;
 }
+.file-application-pdf .content {
+  padding: 0 !important;
 }
 .form-autocomplete {
   background-image: none !important;
@@ -293,6 +298,17 @@ section
 #breadcrumb ol {
   padding: 0.3em 1em !important;
 }
+#civicrm-menu img {
+  margin: 0 !important;
+}
+#civicrm-menu li {
+  list-style: none !important;
+  /*line-height: 100%;*/
+  height: auto !important;
+}
+#civicrm-menu > li.menumain {
+  height: auto !important;
+}
 #comments {
   clear: both !important;
 }
@@ -346,7 +362,7 @@ section
   padding: 0.2em !important;
 }
 #subscriber-login
-{
+1{
   margin: 0;
 }
 #superfish-1 {
