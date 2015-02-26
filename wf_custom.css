@@ -108,6 +108,9 @@ footer
 .form-autocomplete {
   background-image: none !important;
 }
+.form-item-search-block-form {
+  font-size: 0.7em !important;
+}
 .form-wrapper {
   clear: both !important;
 }
