@@ -1,4 +1,4 @@
-wf_custom_css
+Western Friend custom CSS
 =============
 
-Custom CSS for the Western Friend website.
+Custom CSS for the [Western Friend](https://westernfriend.org) website.
