@@ -78,6 +78,10 @@ footer
 .donate-link {
   color: #fff !important;
 }
+.dt-bday {
+  /* Separate born and died dates on memorials page. */
+  margin-right: 1em;
+}
 .edit-submit-library-test {
   margin-top: 0 !important;
 }
