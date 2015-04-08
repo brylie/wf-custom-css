@@ -337,6 +337,10 @@ section
 #comments {
   clear: both !important;
 }
+#edit-person-name {
+  /* width of form input for memorials search */
+  width: 10em;
+}
 /*#edit-quantity
 {
   width: 2em;
