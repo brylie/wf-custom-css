@@ -69,6 +69,10 @@ footer
 .content {
   padding: 0 2em !important;
 }
+.commerce-paypal-icon {
+  display: inline !important;
+  top: 0 !important;
+}
 .community-meetings {
   margin-top: 2em !important;
 }
@@ -115,6 +119,10 @@ footer
 }
 .form-item-search-block-form {
   font-size: 0.7em !important;
+}
+.form-textarea {
+  font-size: 1.3em !important;
+  color: #333 !important;
 }
 .form-wrapper {
   clear: both !important;
@@ -350,6 +358,10 @@ section
 #edit-search-block-form--2 {
   border-radius: 6px !important;
   margin-top: 1em !important;
+}
+#edit-search-block-form--2 input[type=text] {
+  /*background-color: #fff !important;*/
+  color: #fff !important;
 }
 #forum-sort
 {
