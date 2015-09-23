@@ -258,6 +258,9 @@ footer
 .views-row-first {
   padding-top: 0;
 }
+.webform-component input {
+  color: #333;
+}
 .wf-button
 {
   width: 100%;
