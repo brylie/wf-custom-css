@@ -17,7 +17,6 @@ img
   margin: 1em;
 }
 input[type=text] {
-  color: #333 !important;
   font-size: 1.3em !important;
 }
 input[type=email] {
