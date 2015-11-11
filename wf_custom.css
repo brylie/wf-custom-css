@@ -161,6 +161,14 @@ footer
 .memorial-name a {
   font-size: 0.8em;
 }
+.quaker-meeting-committee-member .panel-heading {
+  padding: 0.1em 2em !important
+  
+}
+.quaker-meeting-committee-member .panel-body {
+  padding-left: 2em !important;
+}
+
 .sf-main-menu a.donate-link {
   color: #fff !important;
   text-shadow: none !important;
