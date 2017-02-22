@@ -2,6 +2,7 @@ body {
   font-size: 1em !important;
   color: #333 !important;
 }
+
 h2:after {
   display: none !important;
 }
@@ -238,6 +239,11 @@ footer
   float: left;
   margin-right: 1em;
 }
+
+.view-civicrm-quaker-meeting p {
+  margin-bottom: 0.5em !important;
+}
+
 .views-field-edit-quantity input {
   font-size: 1.3em !important;
   padding: 0.3em 0.5em !important;
@@ -267,7 +273,8 @@ footer
   padding-top: 0;
 }
 .webform-component input {
-  color: #333 !important;
+  /* TODO: Determine why the color was set to #333, probably for form element contrast */
+  /*color: #333 !important;*/
 }
 .wf-button
 {
@@ -460,6 +467,9 @@ section
 }
 #superfish-1-select {
   font-family: sans;
+}
+#wf-subscribe-message a {
+  font-weight: bold !important;
 }
 #wf-welcome-message p {
   margin-bottom: 0;
