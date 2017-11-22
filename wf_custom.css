@@ -1,5 +1,5 @@
 body {
-  font-size: 1em !important;
+  font-size: 0.9em !important;
   color: #333 !important;
 }
 
@@ -79,9 +79,6 @@ footer
 .crm-container.crm-public .select2-container .select2-choice {
   padding: 0 0 0 1em !important;
 }
-.donate-link {
-  color: #fff !important;
-}
 .dt-bday {
   /* Separate born and died dates on memorials page. */
   margin-right: 1em;
@@ -117,6 +114,9 @@ footer
 .form-autocomplete {
   background-image: none !important;
 }
+.form-item .description {
+  font-size: 1em;
+}
 .form-item-search-block-form {
   font-size: 0.7em !important;
 }
@@ -146,6 +146,9 @@ footer
   font-family: "Open Sans", sans-serif !important;
   text-transform: none !important;
   vertical-align: middle !important;
+}
+.main-menu-buttons {
+  color: #fff !important;
 }
 .media-description {
   margin: 1em;
@@ -345,6 +348,9 @@ section
   color: #fff !important;
   padding: 0 1.2em !important;
 }
+#block-user-login {
+  padding: 0.2rem 1rem !important;
+}
 #breadcrumb ol {
   padding: 0.3em 1em !important;
 }
@@ -380,6 +386,9 @@ section
   /*background-color: #fff !important;*/
   color: #fff !important;
 }
+#facetapi-facet-search-apideep-archive-block-created .leaf {
+  padding-bottom: 0;
+}
 #forum-sort
 {
   margin-top: 3em;
@@ -397,7 +406,7 @@ section
 }
 #header
 {
-  padding: 0.3em 0 0 2em !important;
+  padding: 0.8em 0 0 2em !important;
   min-height: 0 !important;
   background-color: #ff8774 !important;
 }
