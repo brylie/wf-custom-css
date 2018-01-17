@@ -579,7 +579,31 @@ section
     display: none !important;
   }
 
+  .region-footer-first {
+    display: none !important;
+  }
+
+  .region-footer-fourth {
+    display: none important!;
+  }
+
   #block-system-user-menu {
     display: none !important:
+  }
+
+  #header {
+    display: none !important;
+  }
+
+  #search-block-form {
+    display: none !important;
+  }
+
+  #subfooter {
+    display: none !important;
+  }
+
+  #subscribe-or-renew {
+    display: none !important;
   }
 }
