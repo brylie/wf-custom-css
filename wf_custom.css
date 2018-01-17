@@ -573,3 +573,13 @@ section
   padding: 0em 1em !important;
   min-height: 42px !important;
 }
+
+@media print {
+  .main-menu {
+    display: none !important;
+  }
+
+  #block-system-user-menu {
+    display: none !important:
+  }
+}
