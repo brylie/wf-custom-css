@@ -584,7 +584,7 @@ section
   }
 
   .region-footer-fourth {
-    display: none important!;
+    display: none !important;
   }
 
   #block-system-user-menu {
